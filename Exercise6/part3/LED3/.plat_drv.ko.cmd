@@ -1,0 +1,1 @@
+cmd_/home/stud/Desktop/HAL_2023/Exercise6/part3/LED3/plat_drv.ko := arm-poky-linux-gnueabi-ld -r -EL --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/stud/Desktop/HAL_2023/Exercise6/part3/LED3/plat_drv.ko /home/stud/Desktop/HAL_2023/Exercise6/part3/LED3/plat_drv.o /home/stud/Desktop/HAL_2023/Exercise6/part3/LED3/plat_drv.mod.o;  true

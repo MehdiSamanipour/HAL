@@ -1,0 +1,2 @@
+main.o: main.cpp server.hpp data.hpp connection.hpp
+main.o: main.cpp server.hpp data.hpp connection.hpp

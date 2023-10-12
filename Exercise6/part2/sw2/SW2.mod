@@ -1,0 +1,2 @@
+/home/stud/Desktop/HAL_2023/Exercise4/sw2/SW2.o
+

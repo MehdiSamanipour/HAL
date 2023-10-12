@@ -1,0 +1,1 @@
+cmd_/home/stud/Desktop/HAL_2023/Exercise6/built-in.a := rm -f /home/stud/Desktop/HAL_2023/Exercise6/built-in.a; arm-poky-linux-gnueabi-ar cDPrST /home/stud/Desktop/HAL_2023/Exercise6/built-in.a 

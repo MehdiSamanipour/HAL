@@ -1,0 +1,13 @@
+CXX :=arm-rpizw-g++
+CXXFLAGS := -Wall -Werror
+all: Hello
+Hello: Hello.o
+	$(CXX) $(CXXFLAGS) -o $@ $^
+
+clean :
+	-rm -f *.o Hello
+ .PHONY : help
+help :
+	@echo all
+	@echo clean
+	@echo help
